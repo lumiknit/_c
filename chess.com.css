@@ -1,0 +1,19 @@
+:root {
+    --theme-board-style-image: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/boards/oled-green.png");
+
+    /* ---------- White pieces ---------- */
+    --theme-piece-set-wk: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/k_lightwood.png");
+    --theme-piece-set-wq: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/q_lightwood.png");
+    --theme-piece-set-wr: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/r_lightwood.png");
+    --theme-piece-set-wn: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/n_lightwood.png");
+    --theme-piece-set-wb: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/b_lightwood.png");
+    --theme-piece-set-wp: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/p_lightwood.png");
+
+    /* ---------- Black pieces ---------- */
+    --theme-piece-set-bk: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/k_darkwood.png");
+    --theme-piece-set-bq: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/q_darkwood.png");
+    --theme-piece-set-br: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/r_darkwood.png");
+    --theme-piece-set-bn: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/n_darkwood.png");
+    --theme-piece-set-bb: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/b_darkwood.png");
+    --theme-piece-set-bp: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/n-angled/p_darkwood.png");
+}
