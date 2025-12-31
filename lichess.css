@@ -1,0 +1,43 @@
+.is2d cg-board::before {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/_c/refs/heads/main/boards/oled-green.png") !important;
+}
+
+/* ---------- White pieces ---------- */
+piece.king.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/k_lightwood.png")!important;
+}
+piece.queen.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/q_lightwood.png")!important;
+}
+piece.rook.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/r_lightwood.png")!important;
+}
+piece.knight.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/n_lightwood.png")!important;
+}
+piece.bishop.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/b_lightwood.png")!important;
+}
+piece.pawn.white {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/p_lightwood.png")!important;
+}
+
+/* ---------- Black pieces ---------- */
+piece.king.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/k_darkwood.png")!important;
+}
+piece.queen.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/q_darkwood.png")!important;
+}
+piece.rook.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/r_darkwood.png")!important;
+}
+piece.knight.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/n_darkwood.png")!important;
+}
+piece.bishop.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/b_darkwood.png")!important;
+}
+piece.pawn.black {
+    background-image: url("https://raw.githubusercontent.com/lumiknit/chess-neo-pieces/refs/heads/main/n-angled/p_darkwood.png")!important;
+}
